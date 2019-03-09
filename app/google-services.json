@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671672542910",
+    "firebase_url": "https://knowyourmed-49544.firebaseio.com",
+    "project_id": "knowyourmed-49544",
+    "storage_bucket": "knowyourmed-49544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671672542910:android:be79336562be446b",
+        "android_client_info": {
+          "package_name": "in.ac.siptec.knowyourmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671672542910-fg2gepros5so5la3l1c8gd0cpq1pgc1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.siptec.knowyourmed",
+            "certificate_hash": "bcad1eaf30863757a3d6ec78d0ac74cd6e4e0925"
+          }
+        },
+        {
+          "client_id": "671672542910-p673icjb7rh6vficdk6bjvelqr3r1ht3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1mrpl-RTFyjJDPOqvOGTc2Z8Iv3oZIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671672542910-p673icjb7rh6vficdk6bjvelqr3r1ht3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
